@@ -19,3 +19,6 @@
 •	How to use functions in Javascript
 
 •	How to return elements from an array randomly
+
+<h3>If you want to watch it live:</h3> https://mica-ailen.github.io/Choosing-your-movie/
+ 
