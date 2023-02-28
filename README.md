@@ -1,4 +1,4 @@
-# Choosing-your-movie
+# Movie Match
 
 <h2>Objetive 🙌🏼:</h2>
 
